@@ -1,0 +1,16 @@
+{
+  "name": "shuo/algorithm",
+  "authors": [
+    {
+      "name": "李硕",
+      "email": "598684053@qq.com"
+    }
+  ],
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "App/"
+    }
+  }
+}
